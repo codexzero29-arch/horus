@@ -197,3 +197,4 @@ describe('GitHub repository loading', () => {
     expect(jest.getTimerCount()).toBe(0);
   });
 });
+
